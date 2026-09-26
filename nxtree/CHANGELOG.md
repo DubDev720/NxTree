@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.9.53
+
+- Expand the declared compatibility range to Nextcloud 33 through 35.
+
 ## 0.9.52
 
 - Preserve blank lines inside fenced Markdown code blocks so complete code examples remain a single preview block.
