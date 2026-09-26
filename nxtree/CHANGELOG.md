@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.9.54
+
+- Remove the practical upper limit on supported Nextcloud versions while retaining the required metadata field.
+
 ## 0.9.53
 
 - Expand the declared compatibility range to Nextcloud 33 through 35.
